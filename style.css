@@ -1,0 +1,992 @@
+header{
+    display: flex;
+    flex-direction: row;
+    background-color: transparent;
+
+}
+.btnhd-cln{
+    display: none;
+}
+.head{
+    margin-left: 15%;
+}
+.ul1{
+    margin-left: 10%;
+    width: 25%;
+}
+
+.li1{
+    display: inline;
+    margin-left: 5%;
+}
+.minhead{
+margin-left: 10%;
+color:  rgb(240, 81, 18);
+
+}
+
+.btnhd{
+    margin-left: 5%;
+    width: 10%;
+    height: 30px;
+    margin-top: 1%;
+    background-color: rgb(240, 81, 18);
+    border: none;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
+    background-color:transparent;
+}
+.indiv1{
+    width: 50%;
+    background-color: transparent;
+    height: 100%;
+
+}
+.cont{
+    width: 70%;
+    height: 100%;
+    margin-left: 30%;
+}
+span{
+    color:  rgb(240, 81, 18);
+}
+.inh1{
+    font-size: 1.5cm;
+    margin-top: 15%;
+    
+}
+.inp{
+    font-size: 1cm;
+    margin-top: 15%;
+}
+.inbtn{
+    border-color:  rgb(240, 81, 18);
+    color: rgb(240, 81, 18);
+    padding:2%;
+    margin-top: 18%;
+    border-radius: 5px;
+}
+.indiv2{
+    width: 50%;
+    background-color:transparent;
+    height: 100%;
+}
+.imge{
+    width: 100%;
+    height: 100%;
+ 
+}
+.footer1{
+    width: 99.3%;
+    height: 25%;
+    background-color: transparent;
+    margin-top: 1px;
+    position: absolute;
+}
+.infoot{
+    width: 50%;
+    height: 80%;
+    background-color:rgb(217, 221, 221);
+    margin: auto;
+    border-radius: 30px;
+}
+.divs1{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color:transparent;
+}
+.divs2{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color:transparent;
+}
+.divs3{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color: transparent;
+}
+.divs4{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color:transparent;
+}
+.in{
+    margin-top: 20%;
+    background-color:  rgb(240, 81, 18); 
+    color:whitesmoke;
+    border: none;
+    padding: 5%;
+    border-radius: 5px;
+}
+.section2{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    position: absolute;
+
+}
+.section2-con{
+    width: 30%;
+    height: 45%;
+    margin: auto;
+    background-color: transparent;
+    text-align: center;
+    
+}
+.section2-main{
+    width: 85%;
+    height: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    background-color:transparent;
+
+    
+}
+.pg{
+    width: 15%;
+    height: 15%;
+}
+.divs-21{
+    width: 35%;
+    height: 100%;
+    float: left;
+    background-color:transparent;
+}
+.divs-22{
+    width: 35%;
+    height: 100%;
+    float: left;
+    background-color:transparent;
+}
+.divs-23{
+    width: 35%;
+    height: 100%;
+    float: left;
+    background-color: transparent;
+}
+.img-sec{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    position: absolute;
+    margin-top: 1px;
+    
+}
+.img-con{
+    width: 40%;
+    height: 30%;
+    text-align: center;
+    margin-left: 35%;
+}
+.img-div{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+.img-div1{
+width: 25%;
+height: 100%;
+float: left;
+border-radius: 5px;
+background-color:transparent;
+}
+.img-div2{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background-color:tomato;
+    margin-left: 5%;
+    border-radius: 5px;
+    }
+    .im{
+        width: 150%;
+        height: 150%;
+        margin-left: -25%;
+    }
+.img-div3{
+    width: 25%;
+    height: 100%;
+    float: left;
+     background-color:transparent;
+     margin-left: 5%;
+     border-radius: 5px;
+        }
+.img-div4{
+width: 25%;
+height: 100%;
+float: left;
+margin-left: 5%;
+background-color:transparent;
+border-radius: 5px;
+}
+.slide-i{
+    width: 100%;
+    height: 300px;
+    background-color:transparent;
+}
+.arw-div{
+    width: 15%;
+    height: auto;
+    background-color:transparent;
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+
+}
+.img-vac{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    margin-top: 35%;
+    position: absolute;
+}
+.vac-con{
+    width: 50%;
+    height: 25%;
+    background-color: transparent;
+    margin: auto;
+   
+    
+}
+.vac-img{
+    width: 70%;
+    height: 50%;
+    margin: auto;
+    background-color: transparent;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img-diva1{
+    width: 35%;
+    height: 100%;
+    float: left;
+    border-radius: 5px;
+    background-color:transparent;
+    }
+    .img-diva2{
+        width: 35%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+        margin-left: 5%;
+        border-radius: 5px;
+        }
+    .img-diva3{
+        width: 35%;
+        height: 100%;
+        float: left;
+         background-color:transparent;
+         margin-left: 5%;
+         border-radius: 5px;
+    }
+    .imgs-diva1{
+        width: 100%;
+        height: 90%;
+    }
+    .review-div{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: row;
+        background-color: transparent;
+        position: absolute;
+        margin-top: 68%;
+    }
+    .rev1{
+        width: 50%;
+        height: 400px;
+        background-color: transparent;
+        margin-left: 5%;
+    }
+    .abt{
+        font-size: 2cm;
+
+    }
+    .rev2{
+        width: 50%;
+        height: 400px;
+        background-color:transparent;
+    }
+    .chtp{
+        font: 1em sans-serif;
+        margin-top: 5%;
+    }
+    .chtdiv{
+      margin-left: 5%;
+      margin-top: 5%;
+      font: 1em sans-serif;
+    }
+    .chtdiv2{
+        margin-left: 25%;
+        margin-top: 5%;
+        font: 1em sans-serif;
+        color: rgb(129, 123, 123);
+      }
+    .img-blog{
+        width: 100%;
+        height: auto;
+        position: absolute;
+        background-color: transparent;
+        margin-top: 100%;
+    }
+    .blog-con{
+        width: 50%;
+        height: 25%;
+        margin: auto;
+        background-color: transparent;
+    }
+    .blog-img{
+        width: 70%;
+        height: 280px;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+    }
+    .blg-diva1{
+        width: 25%;
+        height: 100%;
+        float: left;
+        border-radius: 5px;
+        background-color:transparent;
+        }
+        .blg-diva2{
+            width: 25%;
+            height: 100%;
+            float: left;
+            background-color:transparent;
+            margin-left: 3%;
+            border-radius: 5px;
+            }
+        .blg-diva3{
+            width: 25%;
+            height: 100%;
+            float: left;
+             background-color:transparent;
+             margin-left: 3%;
+             border-radius: 5px;
+        }
+        .blg-diva4{
+            width: 25%;
+            height: 100%;
+            float: left;
+             background-color:transparent;
+             margin-left: 3%;
+             border-radius: 5px;
+        }
+.bigim{
+    width: 100%;
+    height: 90%;
+}
+.inpt-div{
+    width: 100%;
+    height: auto;
+    position: absolute;
+    background-color:transparent;
+    margin-top: 130%;
+}
+.main-iptdiv{
+    width: 70%;
+    height: 250px;
+    background-color:  rgb(240, 81, 18);
+    margin: auto;
+    border-radius: 5px;
+    color: whitesmoke;
+}
+.iptdiv{
+    width: 80%;
+    height: 20%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+}
+.ipt{
+    
+    width: 80%;
+    height: 100%;
+    border-radius: 5px;
+    border: none;
+
+}
+.sub{
+    width: 20%;
+    height: 80%;
+    background-color:  rgb(240, 81, 18);
+    margin-left: -21%;
+    margin-top: 0.8%;
+    border: none;
+    border-radius: 5px;
+    color:whitesmoke;
+}
+footer{
+    width: 90%;
+    height: auto;
+    background-color: transparent;
+    position: absolute;
+    margin-top: 155%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 10%;
+}
+.divf-1{
+    width: 35%;
+    height: 200px;
+    float: left;
+    background-color:transparent;
+}
+.divf-2{
+    width: 35%;
+    height: 200px;
+    float: left;
+    background-color:transparent;
+}
+.divf-3{
+    width: 35%;
+    height: 200px;
+    float: left;
+    background-color: transparent;
+}
+.divf-4{
+    width: 35%;
+    height: 200px;
+    float: left;
+    background-color: transparent;
+}
+
+
+/*----*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+
+    header{
+        display: flex;
+        flex-direction: row;
+        background-color: tomato;
+        width: 125%;
+    
+    }
+    .head{
+        margin-left: 15%;
+    }
+    .ul1{
+        margin-left: 10%;
+        width: 25%;
+        display: none;
+    }
+    
+    .li1{
+        display: inline;
+        margin-left: 5%;
+    }
+    .minhead{
+    margin-left: 10%;
+    color:  rgb(240, 81, 18);
+    display: none;
+    
+    }
+
+    .btnhd{
+        margin-left: 5%;
+        width: 25%;
+        height: 30px;
+        margin-top: 1%;
+        background-color: rgb(240, 81, 18);
+        border: none;
+        border-radius: 5px;
+        color: whitesmoke;
+        display: none;
+    }
+    .btnhd-cln{
+        display: block;
+       margin-left: 340%;
+       width: 56px;
+       height: 30px;
+       margin-top: 15%;
+       background-color: rgb(180, 177, 175);
+       color: rgb(240, 81, 18);
+       border: none;
+       border-radius: 5px;
+       color: whitesmoke;
+    }
+    .section{
+        display: flex;
+        flex-direction: row;
+        width: 125%;
+        height: 280px;
+        background-color:transparent;
+    }
+    .indiv1{
+        width: 50%;
+        background-color: transparent;
+        height: 100%;
+    
+    }
+    h1{
+        font-size: 0.5cm;
+    }
+    .cont{
+        width: 70%;
+        height: 100%;
+        margin-left: 30%;
+        background-color: transparent;
+        margin-top: 1%;
+        
+    }
+    span{
+        color:  rgb(240, 81, 18);
+    }
+    .inh1{
+        font-size: 0.5cm;
+        margin-top: 1%;
+        
+    }
+    .inp{
+        font-size: 0.5cm;
+        margin-top: 1%;
+    }
+    .inbtn{
+        border-color:  rgb(240, 81, 18);
+        color: rgb(240, 81, 18);
+        padding:2%;
+        margin-top: 1%;
+        border-radius: 5px;
+    }
+    .indiv2{
+        width: 50%;
+        background-color:transparent;
+        height: 100%;
+    }
+    .imge{
+        width: 100%;
+        height: 100%;
+        border-radius: 50%; 
+    }
+    .footer1{
+        width: 120%;
+        height: 25%;
+        background-color: transparent;
+        margin-top: 1px;
+        position: absolute;
+    }
+    .infoot{
+        width: 78%;
+        height: 80%;
+        background-color:rgb(217, 221, 221);
+        margin: auto;
+        border-radius: 30px;
+    }
+    .divs1{
+        width: 25%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+        margin-left: 1px;
+        
+    }
+    .divs2{
+        width: 25%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+    }
+    .divs3{
+        width: 25%;
+        height: 100%;
+        float: left;
+        background-color: transparent;
+    }
+    .divs4{
+        width: 25%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+        margin-left: -1%;
+    }
+    .in{
+        margin-top: 20%;
+        background-color:  rgb(240, 81, 18); 
+        color:whitesmoke;
+        border: none;
+        padding: 5%;
+        border-radius: 5px;
+
+    }
+    .section2{
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        position: absolute;
+        font-size: 0.2cm;
+    
+    }
+    .section2-con{
+        width: 30%;
+        height: 45%;
+        margin: auto;
+        background-color: transparent;
+        
+    }
+    .section2-main{
+        width: 55%;
+        height: 50%;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        background-color:transparent;
+        
+        
+    }
+    .divs-21{
+        width: 35%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+    }
+    .divs-22{
+        width: 35%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+    }
+    .divs-23{
+        width: 35%;
+        height: 100%;
+        float: left;
+        background-color: transparent;
+    }
+    .img-sec{
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        position: absolute;
+        margin-top: 1px;
+        
+    }
+    .img-con{
+        width: 40%;
+        height: 30%;
+        
+        margin-left: 35%;
+    }
+    .img-div{
+        width: 50%;
+        height: 50%;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+    }
+    .img-div1{
+    width: 25%;
+    height: 100%;
+    float: left;
+    border-radius: 5px;
+    background-color:transparent;
+    }
+    .img-div2{
+        width: 25%;
+        height: 100%;
+        float: left;
+        background-color:transparent;
+        margin-left: 5%;
+        border-radius: 5px;
+        }
+    .img-div3{
+        width: 25%;
+        height: 100%;
+        float: left;
+         background-color:transparent;
+         margin-left: 5%;
+         border-radius: 5px;
+            }
+    .img-div4{
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 5%;
+    background-color:transparent;
+    border-radius: 5px;
+    }
+    .slide-i{
+        width: 100%;
+        height: 100px;
+        background-color:transparent;
+    }
+    .img-vac{
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        margin-top: 60%;
+        position: absolute;
+    }
+    .vac-con{
+        width: 50%;
+        height: 25%;
+        background-color: transparent;
+        margin: auto;
+       
+        
+    }
+    .vac-img{
+        width: 50%;
+        height: 50%;
+        margin: auto;
+        background-color: transparent;
+        display: flex;
+        flex-direction: row;
+    }
+    .img-diva1{
+        width: 35%;
+        height: 100%;
+        float: left;
+        border-radius: 5px;
+        background-color:transparent;
+        }
+        .img-diva2{
+            width: 35%;
+            height: 100%;
+            float: left;
+            background-color:transparent;
+            margin-left: 5%;
+            border-radius: 5px;
+            }
+        .img-diva3{
+            width: 35%;
+            height: 100%;
+            float: left;
+             background-color:transparent;
+             margin-left: 5%;
+             border-radius: 5px;
+        }
+        .review-div{
+            width: 100%;
+            height: auto;
+            display: flex;
+            flex-direction: row;
+            background-color: transparent;
+            position: absolute;
+            margin-top: 113%;
+        }
+        .rev1{
+            width: 50%;
+            height: 200px;
+            background-color: transparent;
+        }
+        .rev2{
+            width: 50%;
+            height: 200px;
+            background-color:transparent;
+        }
+        .img-blog{
+            width: 100%;
+            height: auto;
+            position: absolute;
+            background-color: transparent;
+            margin-top: 160%;
+        }
+        .blog-con{
+            width: 50%;
+            height: 25%;
+            margin: auto;
+            background-color: transparent;
+        }
+        .blog-img{
+            width: 50%;
+            height: 100%;
+            margin: auto;
+            display: flex;
+            flex-direction: row;
+        }
+        .blg-diva1{
+            width: 25%;
+            height: 100%;
+            float: left;
+            border-radius: 5px;
+            background-color:transparent;
+            }
+            .blg-diva2{
+                width: 25%;
+                height: 100%;
+                float: left;
+                background-color:transparent;
+                margin-left: 3%;
+                border-radius: 5px;
+                }
+            .blg-diva3{
+                width: 25%;
+                height: 100%;
+                float: left;
+                 background-color:transparent;
+                 margin-left: 3%;
+                 border-radius: 5px;
+            }
+            .blg-diva4{
+                width: 25%;
+                height: 100%;
+                float: left;
+                 background-color:transparent;
+                 margin-left: 3%;
+                 border-radius: 5px;
+            }
+    
+    .inpt-div{
+        width: 100%;
+        height: auto;
+        position: absolute;
+        background-color:transparent;
+        margin-top: 203%;
+    }
+    .main-iptdiv{
+        width: 70%;
+        height: 100px;
+        background-color:  rgb(240, 81, 18);
+        margin: auto;
+        border-radius: 5px;
+    }
+    .iptdiv{
+        width: 80%;
+        height: 30%;
+        margin: auto;
+        margin-top: 1%;
+        margin-left: 20%;
+    }
+    .ipt{
+        
+        width: 80%;
+        height: 100%;
+        border-radius: 5px;
+        border: none;
+    
+    }
+    .sub{
+        width: 20%;
+        height: 80%;
+        background-color:  rgb(240, 81, 18);
+        margin-left: 60%;
+        margin-top: 1%;
+        display: none;
+        
+    }
+    footer{
+        width: 100%;
+        height: auto;
+        background-color: transparent;
+        position: absolute;
+        margin-top: 230%;
+        display: flex;
+        flex-direction: row;
+    }
+    .divf-1{
+        width: 30%;
+        height: 200px;
+        float: left;
+        background-color:transparent;
+    }
+    .divf-2{
+        width: 35%;
+        height: 200px;
+        float: left;
+        background-color:transparent;
+    }
+    .divf-3{
+        width: 35%;
+        height: 200px;
+        float: left;
+        background-color: transparent;
+    }
+    .divf-4{
+        width: 35%;
+        height: 200px;
+        float: left;
+        background-color: transparent;
+    }
+    .abt{
+        font-size: 0.8cm;
+
+    }
+    
+}
+
+
+
+
